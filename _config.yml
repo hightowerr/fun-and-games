@@ -77,8 +77,8 @@ footer:
       url: "https://www.linkedin.com/in/yinkola/"
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
+#theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
 markdown: kramdown
 plugins:
