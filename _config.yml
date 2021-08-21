@@ -78,13 +78,14 @@ footer:
 
 # Build settings
 #theme: "minimal-mistakes-jekyll"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "neon"
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
