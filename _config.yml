@@ -86,6 +86,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-gist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
