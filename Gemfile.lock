@@ -107,7 +107,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
-  jekyll-feed
+  jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-seo-tag
   jekyll-sitemap
   minimal-mistakes-jekyll (~> 4.24)
