@@ -9,15 +9,18 @@ As a product manager, I am usually provided with a list of features and tasked w
 
 My first step step is to work with the product & development team to document all proposed epics. The following structure of headings works very well.
 
-- Epic - a large user story that cannot be delivered as defined within a single sprint
-- Benefit (per month) - The value - typically in monetary terms - that can be unlocked by the feature group.
-- Feature - Functionality or experience enhancement that satisfies a customer need.
-- Story Point - The estimated size of the feature.
+- **Epic** - a large user story that cannot be delivered as defined within a single sprint
+- **Benefit** (per month) - The value - typically in monetary terms - that can be unlocked by the feature group.
+- **Feature** - Functionality or experience enhancement that satisfies a customer need.
+- **Story Point** - The estimated size of the feature.
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/feature_list.png" alt="a list of features">
 
 With a good understanding of the work to be completed the next step is to estimate the size of the project. To do this efficiently I extrapolate the size of all features in this project by sampling seven stories at random.
 
 Here I use the random number generator provided by [omnicalculator](https://www.omnicalculator.com/statistics/random-number)  to generator 7 non-repeat numbers.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/randon_numbers.png" alt="randomly generated numbers">
 
 With seven stories identified at random (2, 4, 7, 10, 12, 13, 20). It's time as a product team to sit down with the development team to settle on story estimates for each feature. Typically the best way to reach a satisfactory estimate is to leverage the development teams' experience by simply referencing similar completed features.
 
@@ -31,16 +34,18 @@ This approach works best when the development team is largely unchanged. In scen
 
 Here are my seven features. Each has a story estimate and short rationale where appropriate.
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/selected_stories_to_Estimate.png" alt="selected stories to Estimate">
+
 
 Now I enter my teams estimations into the [story forecaster worksheet](https://github.com/FocusedObjective/FocusedObjective.Resources/tree/master/Spreadsheets).
 
 ## Estimated Feature List
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Estimation1.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Estimation1.png" alt="Estimated Feature List">
 
 ## Story Forecaster
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/estimation results.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/estimation results.png" alt="Story Forecaster">
 
 ## Results
 
@@ -56,7 +61,7 @@ THEN 135 / 25 = 5.44
 
 SO this feature list should take around 6 sprints to deliver.
 
-# Summary
+## Summary
 In this post, I have demonstrated how to forecast story points. This technique helps answer questions about what we can / should do.
 
 ## References
@@ -64,6 +69,3 @@ In this post, I have demonstrated how to forecast story points. This technique h
 Professional Product Owner, The: Leveraging Scrum as a Competitive Advantage, First Edition Don McGreal
 
 McDonald, K., 2021. *Themes vs Epics vs Features vs User Stories*. [online] KBP Media. Available at: <https://www.kbp.media/themes-epics-features-user-stories/> [Accessed 26 October 2021].
-
-[response-variable]: https://github.com/hightowerr/notebooks
-[here]: https://github.com/hightowerr/notebooks
