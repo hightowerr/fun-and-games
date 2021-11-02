@@ -4,6 +4,7 @@ title:  "Cleaning data (sales data example)"
 categories: cleaning
 author: Olayinka Ola
 ---
+In this post I am going to show how to clean and consolidate data to ready it for further analysis.
 
  I have an example of a dataset which is not clean. The issue is that data hasn’t been loaded correctly into into the columns so my job here is to clean this data so it’s usable for analysis  & modelling.
 
