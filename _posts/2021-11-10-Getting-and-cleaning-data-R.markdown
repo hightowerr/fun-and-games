@@ -5,9 +5,6 @@ date:   2021-11-01 13:00:00 +0100
 categories: cleaning
 author: Olayinka Ola
 ---
-
-# **Getting and Cleaning Data Course Assignment**
-
 ## **Review criteria**
 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
