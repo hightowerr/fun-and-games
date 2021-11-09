@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "Cleaning data (sales data example)"
+date:   2021-12-03 13:00:00 +0100
 categories: cleaning
 author: Olayinka Ola
 ---

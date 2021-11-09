@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "Forecasting a feature group"
+date:   2021-10-04 13:00:00 +0100
 categories: product
 author: Olayinka Ola
 ---

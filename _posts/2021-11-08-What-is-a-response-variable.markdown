@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "What is a response variable"
+date:   2021-11-08 13:00:00 +0100
 categories: Regression
 author: Olayinka Ola
 ---

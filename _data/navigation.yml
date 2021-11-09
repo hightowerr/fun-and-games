@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
+  - title: "Home"
+    url: /
+  - title: "Linkedin"
+    url: https://www.linkedin.com/in/yinkola/
