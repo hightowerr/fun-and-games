@@ -17,9 +17,12 @@ In this post I am going to show how to clean and consolidate data to ready it fo
 - Column 9: **Retailer**, column 10: **Country** should be added together to create a variable labelled retailer country**.**
 - Rename column 8
 
+Link to my [Github Repo][Github Repo]
+
+## The code
 ### Import of the packages is needed
 {% highlight ruby %}
-import pandas as pd # Import pandas module
+import pandas as pd
 import resumetable as rt
 {% endhighlight %}
 
@@ -86,3 +89,5 @@ With all my changes implemented I can now check the data frame to confirm there 
 ### Summary
 
 This simple example shows how to correct some common problems in files. After identifying the problems with the data file, solutions are implemented and the final output is tidied up ready for exploration.
+
+[Github Repo]: https://github.com/hightowerr/marketing
