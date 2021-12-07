@@ -13,6 +13,8 @@ In this post, I will use affinity analysis to determine which books are typicall
 
 Affinity analysis is the study of what goes with what. It helps identify customer patterns when items/experiences are used in similar ways.
 
+Link to my [Github Repo][Github Repo]
+
 ## The code
 ### Import of the packages is needed
 ```python
@@ -25,7 +27,7 @@ from operator import itemgetter
 import sys
 ```
 
-# The data
+## The data
 
 The book dataset used in this post can be found [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/). With the archive.zip file successfully downloaded I can open the zipfile without extracting its contents.
 
@@ -43,7 +45,7 @@ The Book-Crossing dataset comprises 3 tables.
 
     Contains the book rating information. Ratings (*`Book-Rating`*) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
-### Importing the data
+## Importing the data
 
 ```python
 # specifying the zip file name
@@ -74,7 +76,7 @@ df = pd.read_csv(data, sep=';')
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Read_data.png" alt="read_data">
 
-### Preparing the data
+## Preparing the data
 
 The format of the data given here is compact. The user ID indicates a unique user the second column is the book reviewed and the third column gives the review ranking out of 10.
 
@@ -135,7 +137,7 @@ Displayed are the top five most reviewed books.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/num_positive_by_book.png" alt="Number of positive reviews by book">
 
-### **The Apriori Algorthim.**
+## The Apriori Algorthim.
 
 The Apriori method is a tool to find frequent itemsets. A frequent itemset is a set of items that meet the threshold for minimum support. The main principle behind it as explained in ****book by Michael Steinbach, Pang-Ning Tan, and Vipin Kumar, **Introduction to Data Mining**
 
@@ -203,7 +205,7 @@ del frequent_itemsets[1]
 frequent_itemsets[5].items()
 ```
 
-### Min**ing association rules**
+## Mining association rules
 
 Now we have a list of frequent item sets, but this by iteself is not very useful. The next step is to build an association rule. Association rules help find patterns and relationships among items in frequent itemsets. This technique is crucial to actionable cross-selling because it allows us to formulate non-deterministic premise and conclusion statements such as ' if a user recommends book_x and book_y, they will also recommend book_z'
 
@@ -375,11 +377,13 @@ Rule: if a person recommends Harry Potter and the Goblet of Fire (Book 4), Harry
  - Test Confidence:1.000
 ```
 
-Rule #4 shows a 90% confidence level in the training data, but it has only ~80% level in the test data. Many of the other rules show a perfect confidence in test data which makes them great candidates for recommendations.
+Rule #3 shows a 96% confidence level in the training data, but it has only ~85% level in the test data. Many of the other rules show a perfect confidence in test data which makes them great candidates for recommendations.
 
 Summary
 
 In this post, we used affinity analysis to recommend books for review based on booked reviewed together in the past. This was done in two stages. First we found frequent item-sets using the Apriori algorithm. We then created association rules from those item-sets. Association rules were found using training data and then applied to the test data.
+
+[Github Repo]: https://github.com/hightowerr/marketing/blob/master/Affinity%20Analysis/Book%20recommendation.ipynb
 
 ### References
 
