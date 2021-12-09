@@ -5,8 +5,6 @@ date:   2021-12-09 13:00:00 +0100
 categories: Data_Science, r
 author: Olayinka Ola
 ---
-## **Electric Power consumption**
-
 The goal of this project is to load the Individual household electric power consumption Data Set from this [repository](http://archive.ics.uci.edu/ml/).
 
 The dataset has 2,075,259 rows and 9 columns. As I only need dates from 2007-02-01 and 2007-02-02 I subset the data to those dates. Once the date and time data were formatted properly for the subset created I made a series of plots using the base plotting system.
