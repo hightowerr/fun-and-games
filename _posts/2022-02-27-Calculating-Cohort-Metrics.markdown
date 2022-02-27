@@ -103,8 +103,11 @@ rownames(mat_5cohort)<-c("2014_cohort", "2015_cohort", "2016_cohort", "2017_coho
 colnames(mat_5cohort)<- c("mean", "median","Standard")
 mat_5cohort
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cohorts_annual.png" alt="full model">
 
 This post has been a quick look at simple cohort metric creation.
+
+[Github Repo]: https://github.com/hightowerr/marketing/tree/master/Calculating%20Cohort%20Metrics
 
 **Learn More**
 
