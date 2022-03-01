@@ -5,13 +5,6 @@ date:   2022-02-28 13:00:00 +0100
 categories: r, data science,
 author: Olayinka Ola
 ---
-
-# ****Exploratory Data Analysis Course Project 2****
-
-My Course Project 2 of the [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) by Johns Hopkins University on Coursera.
-
-## Context
-
 The overall goal of this post is to explore the National Emissions Inventory database and see what it says about fine particulate matter pollution in the United states over the 10-year period 1999–2008.
 
 ## Analysis
