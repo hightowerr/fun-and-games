@@ -2,7 +2,7 @@
 layout: posts
 title:  "6 Plot Analysis of National Emissions Inventory in America."
 date:   2022-02-28 13:00:00 +0100
-categories: product analytics, data science,
+categories: r, data science,
 author: Olayinka Ola
 ---
 
@@ -16,7 +16,7 @@ The overall goal of this post is to explore the National Emissions Inventory dat
 
 ## Analysis
 
-I will address the following questions and tasks in my exploratory analysis. For each question/task I will make a single plot. 
+I will address the following questions and tasks in my exploratory analysis. For each question/task I will make a single plot.
 
 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
