@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "6 Plot Analysis of National Emissions Inventory in America."
-date:   2022-02-28 13:00:00 +0100
+date:   2022-03-01 05:00:00 +0100
 categories: r, data science,
 author: Olayinka Ola
 ---
