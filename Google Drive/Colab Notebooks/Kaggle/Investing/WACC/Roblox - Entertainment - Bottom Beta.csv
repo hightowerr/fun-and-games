@@ -1,0 +1,302 @@
+Name,Full Ticker,Ticker,Trading Country ISO Code,Operating Country ISO Code,Industry,Beta (5 Year),Total Debt,Total Equity,Revenue,Enterprise Value (EV)
+"Netflix, Inc.",NASDAQGS:NFLX,NFLX,USA,USA,Entertainment,0.8125,18006.6074,15314.6172,28632.9688,305326.625
+The Walt Disney Company,NYSE:DIS,DIS,USA,USA,Entertainment,1.1694,58313,102224,67418,321303.0313
+Sea Limited,NYSE:SE,SE,USA,SGP,Entertainment,1.3023,4118.1758,7810.5322,8299.626,156933.0313
+"NetEase, Inc.",OTCPK:NETT.F,NETT.F,USA,CHN,Entertainment,0.559,3157.394,14956.3018,12869.7119,63678.1445
+"NetEase, Inc.",NASDAQGS:NTES,NTES,USA,CHN,Entertainment,0.559,3157.394,14956.3018,12869.7119,63678.1445
+Roblox Corporation,NYSE:RBLX,RBLX,USA,USA,Entertainment,,243.867,605.831,1660.421,69324.6172
+Universal Music Group N.V.,OTCPK:UMGN.F,UMGN.F,USA,NLD,Entertainment,,4074.9526,1763.5199,9255.2178,55578.8477
+Universal Music Group N.V.,OTCPK:UNVG.Y,UNVG.Y,USA,NLD,Entertainment,,4074.9526,1763.5199,9255.2178,55578.8477
+"Nintendo Co., Ltd.",OTCPK:NTDO.F,NTDO.F,USA,JPN,Entertainment,0.5876,0,16066.1309,14499.0566,36028.1523
+"Nintendo Co., Ltd.",OTCPK:NTDO.Y,NTDO.Y,USA,JPN,Entertainment,0.5876,0,16066.1309,14499.0566,36028.1523
+Spotify Technology S.A.,NYSE:SPOT,SPOT,USA,LUX,Entertainment,1.5809,2085.9392,2451.9343,10594.1631,46279.8711
+"Activision Blizzard, Inc.",NASDAQGS:ATVI,ATVI,USA,USA,Entertainment,0.5943,3607,16950,9052,40823.2266
+Electronic Arts Inc.,NASDAQGS:EA,EA,USA,USA,Entertainment,0.8369,2195,7856,6396,35848.3398
+"Roku, Inc.",NASDAQGS:ROKU,ROKU,USA,USA,Entertainment,1.6671,520.325,2683.6311,2549.1411,29937.3262
+Bilibili Inc.,NASDAQGS:BILI,BILI,USA,CHN,Entertainment,1.2699,1416.0144,3632.186,2704.8486,23214.5918
+"Live Nation Entertainment, Inc.",NYSE:LYV,LYV,USA,USA,Entertainment,1.2914,7292.479,220.571,3802.6599,26092.5273
+Warner Music Group Corp.,NASDAQGS:WMG,WMG,USA,USA,Entertainment,,3698,46,5301,25328.75
+"AMC Entertainment Holdings, Inc.",NYSE:AMC,AMC,USA,USA,Entertainment,1.3003,10921.9004,-1642.7,1518.7,28649.7441
+"NEXON Co., Ltd.",OTCPK:NEXO.F,NEXO.F,USA,JPN,Entertainment,0.2153,138.5789,7348.3208,2575.1252,12802.2939
+"NEXON Co., Ltd.",OTCPK:NEXO.Y,NEXO.Y,USA,JPN,Entertainment,0.2153,138.5789,7348.3208,2575.1252,12205.6055
+"Take-Two Interactive Software, Inc.",NASDAQGS:TTWO,TTWO,USA,USA,Entertainment,0.6073,239.399,3469.668,3371.864,16488.043
+Bolloré SE,OTCPK:BOIV.F,BOIV.F,USA,FRA,Entertainment,0.8169,13801.1152,36781.0703,29984.3457,32045.6973
+Formula One Group,OTCPK:FWON.B,FWON.B,USA,USA,Entertainment,1.2629,3626,7080,1834,15436.3164
+Formula One Group,NASDAQGS:FWON.A,FWON.A,USA,USA,Entertainment,1.2629,3626,7080,1834,15436.3164
+Formula One Group,NASDAQGS:FWON.K,FWON.K,USA,USA,Entertainment,1.2629,3626,7080,1834,15436.3164
+Tencent Music Entertainment Group,NYSE:TME,TME,USA,CHN,Entertainment,1.1116,845.4286,7848.7471,4957.8218,7474.1436
+Embracer Group AB (publ),OTCPK:THQQ.F,THQQ.F,USA,SWE,Entertainment,0.1796,257.7206,4242.3877,1505.6841,10066.8076
+"Toho Co., Ltd.",OTCPK:TKCO.F,TKCO.F,USA,JPN,Entertainment,0.3655,0.5545,3576.241,2145.2646,6908.2944
+"Endeavor Group Holdings, Inc.",NYSE:EDR,EDR,USA,USA,Entertainment,,5605.4521,2254.6819,4533.0972,12820.0957
+Playtika Holding Corp.,NASDAQGS:PLTK,PLTK,USA,ISR,Entertainment,,2536.6001,-508,2507.5,8989.5498
+Zynga Inc.,NASDAQGS:ZNGA,ZNGA,USA,USA,Entertainment,0.079,1485.2,3007,2721,7359.3687
+Konami Holdings Corporation,OTCPK:KONM.Y,KONM.Y,USA,JPN,Entertainment,1.091,662.2459,2894.4148,2660.2512,5279.3994
+Konami Holdings Corporation,OTCPK:KNAM.F,KNAM.F,USA,JPN,Entertainment,1.091,662.2459,2894.4148,2660.2512,5279.3994
+"Square Enix Holdings Co., Ltd.",OTCPK:SQNX.F,SQNX.F,USA,JPN,Entertainment,0.5949,0,2322.623,2953.6003,5016.873
+"Square Enix Holdings Co., Ltd.",OTCPK:SQNN.Y,SQNN.Y,USA,JPN,Entertainment,0.5949,0,2322.623,2953.6003,4855.7417
+Ubisoft Entertainment SA,OTCPK:UBSF.Y,UBSF.Y,USA,FRA,Entertainment,0.2209,2395.761,2027.7971,2569.0293,7126.1294
+Ubisoft Entertainment SA,OTCPK:UBSF.F,UBSF.F,USA,FRA,Entertainment,0.2209,2395.761,2027.7971,2569.0293,7061.5439
+"Toei Animation Co.,Ltd.",OTCPK:TOEA.F,TOEA.F,USA,JPN,Entertainment,-0.196,0,811.0231,511.0788,5268.8232
+CTS Eventim AG & Co. KGaA,OTCPK:CEVM.Y,CEVM.Y,USA,DEU,Entertainment,1.2791,225.5814,602.9025,241.047,6056.5493
+CTS Eventim AG & Co. KGaA,OTCPK:CEVM.F,CEVM.F,USA,DEU,Entertainment,1.2791,225.5814,602.9025,241.047,5600.7188
+Kingsoft Corporation Limited,OTCPK:KSFT.F,KSFT.F,USA,HKG,Entertainment,,381.6292,4496.5005,954.4111,2059.3523
+MGM Holdings Inc.,OTCPK:MGMB,MGMB,USA,USA,Entertainment,0.0696,2166.0181,1260.24,1520.986,7525.5049
+"Capcom Co., Ltd.",OTCPK:CCOE.F,CCOE.F,USA,JPN,Entertainment,0.2729,46.6422,1237.7396,1107.3733,4515.2061
+"Capcom Co., Ltd.",OTCPK:CCOE.Y,CCOE.Y,USA,JPN,Entertainment,0.2729,46.6422,1237.7396,1107.3733,4588.103
+"iQIYI, Inc.",NASDAQGS:IQ,IQ,USA,CHN,Entertainment,0.8074,3557.0481,1092.0974,4748.7876,6497.5557
+CD Projekt S.A.,OTCPK:OTGL.Y,OTGL.Y,USA,POL,Entertainment,0.3367,5.8323,473.7753,588.9511,4606.9946
+CD Projekt S.A.,OTCPK:OTGL.F,OTGL.F,USA,POL,Entertainment,0.3367,5.8323,473.7753,588.9511,4648.2129
+Madison Square Garden Sports Corp.,NYSE:MSGS,MSGS,USA,USA,Entertainment,0.6062,1108.432,-232.184,377.477,5257.8325
+Skillz Inc.,NYSE:SKLZ,SKLZ,USA,USA,Entertainment,,3.956,704.336,342.963,3415.0938
+"World Wrestling Entertainment, Inc.",NYSE:WWE,WWE,USA,USA,Entertainment,1.3662,613.659,372.763,1023.115,4059.6165
+XD Inc.,OTCPK:XDNC.F,XDNC.F,USA,CHN,Entertainment,,284.6474,470.387,431.4288,2457.6038
+Lions Gate Entertainment Corp.,NYSE:LGF.A,LGF.A,USA,USA,Entertainment,1.5991,3823.1001,2993.6001,3501.8,6708.9448
+Lions Gate Entertainment Corp.,NYSE:LGF.B,LGF.B,USA,USA,Entertainment,1.5991,3823.1001,2993.6001,3501.8,6708.9448
+Kahoot! ASA,OTCPK:KHOT.F,KHOT.F,USA,NOR,Entertainment,0.1938,2.822,505.415,55.557,2467.6699
+Manchester United plc,NYSE:MANU,MANU,USA,GBR,Entertainment,0.72,737.1863,332.3932,689.403,3158.2092
+Madison Square Garden Entertainment Corp.,NYSE:MSGE,MSGE,USA,USA,Entertainment,,2126.562,2188.4641,304.365,3107.907
+Stillfront Group AB (publ),OTCPK:STLF.F,STLF.F,USA,SWE,Entertainment,0.4042,416.6809,1002.3422,632.048,2660.8511
+"Daiichikosho Co., Ltd.",OTCPK:DKSS.F,DKSS.F,USA,JPN,Entertainment,,448.2272,914.0834,809.2709,1725.1582
+HUYA Inc.,NYSE:HUYA,HUYA,USA,CHN,Entertainment,0.7904,13.6503,1683.4656,1788.402,83.1882
+"Cinemark Holdings, Inc.",NYSE:CNK,CNK,USA,USA,Entertainment,2.4229,3968.397,314.957,942.076,5148.8418
+"DeNA Co., Ltd.",OTCPK:DNAC.F,DNAC.F,USA,JPN,Entertainment,0.5633,267.912,2072.1423,1224.3247,1474.7493
+Paradox Interactive AB (publ),OTCPK:PRXX.F,PRXX.F,USA,SWE,Entertainment,0.1294,20.2579,176.2047,170.3061,1722.2828
+"GungHo Online Entertainment, Inc.",OTCPK:GUNG.F,GUNG.F,USA,JPN,Entertainment,0.6542,4.9149,1066.6792,991.8684,732.0678
+The Liberty Braves Group,NASDAQGS:BATR.A,BATR.A,USA,USA,Entertainment,0.9195,691,261,,2079.739
+The Liberty Braves Group,OTCPK:BATR.B,BATR.B,USA,USA,Entertainment,0.9195,691,261,,2079.739
+The Liberty Braves Group,NASDAQGS:BATR.K,BATR.K,USA,USA,Entertainment,0.9195,18098,19469,1754,20277.7383
+Nexters Inc.,NASDAQGM:GDEV,GDEV,USA,CYP,Entertainment,,1.401,-178.614,384.491,1367.0522
+IGG Inc,OTCPK:IGGG.F,IGGG.F,USA,SGP,Entertainment,0.6763,11.9126,472.1716,808.7094,734.8121
+Team17 Group plc,OTCPK:TSVN.F,TSVN.F,USA,GBR,Entertainment,0.3397,1.9255,158.9269,116.6116,1082.5061
+Sumo Group Plc,OTCPK:SUMG.F,SUMG.F,USA,GBR,Entertainment,0.8725,23.6579,133.3006,128.7262,1140.2479
+IMAX Corporation,NYSE:IMAX,IMAX,USA,CAN,Entertainment,1.5745,248.139,420.47,202.301,1153.1329
+DouYu International Holdings Limited,NASDAQGS:DOYU,DOYU,USA,CHN,Entertainment,0.853,10.9771,1020.0399,1412.1405,-26.1558
+Cineworld Group plc,OTCPK:CNWG.Y,CNWG.Y,USA,GBR,Entertainment,3.4802,8888.2002,-276.6,432.7,9062.1797
+Cineworld Group plc,OTCPK:CNNW.F,CNNW.F,USA,GBR,Entertainment,3.4802,8888.2002,-276.6,432.7,9122.2041
+Juventus Football Club S.p.A.,OTCPK:JVTS.F,JVTS.F,USA,ITA,Entertainment,1.3537,474.0894,33.7273,559.0782,1339.272
+Media and Games Invest SE,OTCPK:MDGI.F,MDGI.F,USA,MLT,Entertainment,0.0955,0,348.0415,279.0155,644.733
+"DoubleDown Interactive Co., Ltd.",NASDAQGS:DDI,DDI,USA,KOR,Entertainment,,50.644,846.928,367.939,601.1112
+Migom Global Corp.,OTCPK:MGOM,MGOM,USA,USA,Entertainment,,,,,739.9677
+Technicolor SA,OTCPK:TCLR.Y,TCLR.Y,USA,FRA,Entertainment,1.6186,1426.9169,162.1496,3273.1064,2041.5391
+Rovio Entertainment Oyj,OTCPK:ROVV.F,ROVV.F,USA,FIN,Entertainment,1.0336,8.9182,216.8172,319.4267,424.3327
+Cineplex Inc.,OTCPK:CPXG.F,CPXG.F,USA,CAN,Entertainment,3.2121,1479.7443,-157.6839,322.9949,2113.3018
+Major Cineplex Group Public Company Limited,OTCPK:MCGR.F,MCGR.F,USA,THA,Entertainment,0.9788,188.4738,240.9375,83.0261,452.7566
+Redbox Entertainment Inc.,NASDAQGM:RDBX,RDBX,USA,USA,Entertainment,,0,-19.9409,179.646,585.198
+The Marcus Corporation,NYSE:MCS,MCS,USA,USA,Entertainment,1.8213,556.551,442.306,310.98,1106.1932
+"PLAYSTUDIOS, Inc.",NASDAQGM:MYPS,MYPS,USA,USA,Entertainment,,0,298.39,279.489,332.2386
+"Gravity Co., Ltd.",NASDAQGM:GRVY,GRVY,USA,KOR,Entertainment,-0.093,0,207.231,362.8826,369.5844
+"IMAX China Holding, Inc.",OTCPK:IMXC.F,IMXC.F,USA,CHN,Entertainment,0.4463,11.894,250.782,99.1,463.7376
+Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,OTCPK:BORU.F,BORU.F,USA,DEU,Entertainment,1.1435,70.3556,306.5763,511.3296,604.6345
+ILUS International Inc.,OTCPK:ILUS,ILUS,USA,USA,Entertainment,,,,,
+"Reservoir Media, Inc.",NASDAQGM:RSVR,RSVR,USA,USA,Entertainment,,207.3792,338.8056,94.3021,694.581
+WildBrain Ltd.,OTCPK:WLDB.F,WLDB.F,USA,CAN,Entertainment,0.8807,478.9651,236.398,370.757,1111.8778
+Digital Domain Holdings Limited,OTCPK:DGMD.F,DGMD.F,USA,HKG,Entertainment,1.1429,48.6282,148.3121,88.0777,393.6414
+G5 Entertainment AB (publ),OTCPK:GENT.F,GENT.F,USA,SWE,Entertainment,0.9136,1.6213,48.645,151.552,433.2753
+SciPlay Corporation,NASDAQGS:SCPL,SCPL,USA,USA,Entertainment,0.2615,8.1,511.3,598.8,494.6562
+CuriosityStream Inc.,NASDAQCM:CURI,CURI,USA,USA,Entertainment,,0,170.992,55.346,248.3358
+Akatsuki Inc.,OTCPK:AKAF.F,AKAF.F,USA,JPN,Entertainment,0.5785,47.2442,324.7435,243.0769,38.4109
+Gaumont SA,OTCPK:GMNT.F,GMNT.F,USA,FRA,Entertainment,0.5412,219.1603,244.5683,181.4516,420.839
+Nan Hai Corporation Limited,OTCPK:NANH.F,NANH.F,USA,CHN,Entertainment,0.3186,2565.6331,359.5392,1028.7325,2440.179
+"Loop Media, Inc.",OTCPK:LPTV,LPTV,USA,USA,Entertainment,,2.982,10.1503,3.2868,315.7075
+AFC Ajax NV,OTCPK:AFCJ.F,AFCJ.F,USA,NLD,Entertainment,0.5412,173.8674,263.227,148.4333,439.2145
+Cinedigm Corp.,NASDAQGM:CIDM,CIDM,USA,USA,Entertainment,1.4883,0.031,27.521,43.337,258.4321
+"Chicken Soup for the Soul Entertainment, Inc.",NASDAQGM:CSSE.N,CSSE.N,USA,USA,Entertainment,1.4283,48.9798,124.1297,94.6592,
+"Chicken Soup for the Soul Entertainment, Inc.",NASDAQGM:CSSE.P,CSSE.P,USA,USA,Entertainment,1.4283,48.9798,124.1297,94.6592,
+"Chicken Soup for the Soul Entertainment, Inc.",NASDAQGM:CSSE,CSSE,USA,USA,Entertainment,1.4283,48.9798,124.1297,94.6592,220.5695
+iHuman Inc.,NYSE:IH,IH,USA,CHN,Entertainment,,3.9776,101.7399,123.0206,97.7245
+"Corporación Interamericana de Entretenimiento, S.A.B. de C.V.",OTCPK:CIEZ.F,CIEZ.F,USA,MEX,Entertainment,0.7788,208.069,24.5571,180.045,227.5165
+A.S. Roma S.P.A.,OTCPK:ASRA.F,ASRA.F,USA,ITA,Entertainment,3.1164,397.1383,-324.056,219.158,614.6812
+The9 Limited,NASDAQCM:NCTY,NCTY,USA,CHN,Entertainment,1.3013,12.1146,132.7917,19.5035,88.3717
+"Golden Matrix Group, Inc.",OTCPK:GMGI,GMGI,USA,USA,Entertainment,2.3106,0.2987,15.594,9.3335,181.4606
+"StemGen, Inc.",OTCPK:SGNI,SGNI,USA,USA,Entertainment,-3.2964,0.8123,-1.334,0.039,183.4972
+Thunderbird Entertainment Group Inc.,OTCPK:THBR.F,THBR.F,USA,CAN,Entertainment,2.3059,50.7886,52.7992,100.0955,212.7179
+Scienjoy Holding Corporation,NASDAQCM:SJ,SJ,USA,CHN,Entertainment,0.9011,1.7783,112.8602,252.0733,122.1963
+"Gaia, Inc.",NASDAQGM:GAIA,GAIA,USA,USA,Entertainment,0.6,14.273,77.871,77.37,174.6728
+Leaf Mobile Inc.,OTCPK:LEML.F,LEML.F,USA,CAN,Entertainment,,0.1403,19.2853,66.1066,151.2912
+"LiveOne, Inc.",NASDAQCM:LVO,LVO,USA,USA,Entertainment,1.5314,29.628,2.62,100.855,174.8995
+Eros STX Global Corporation,NYSE:ESGC,ESGC,USA,USA,Entertainment,,,,,660.3076
+"Hollywall Entertainment, Inc.",OTCPK:HWAL,HWAL,USA,USA,Entertainment,,,,,
+Olympique Lyonnais Groupe SA,OTCPK:OQLG.F,OQLG.F,USA,FRA,Entertainment,0.6503,493.7654,144.4758,140.1376,542.8719
+"Reading International, Inc.",NASDAQCM:RDI,RDI,USA,USA,Entertainment,1.7304,494.76,103.573,104.163,541.9517
+"Reading International, Inc.",NASDAQCM:RDIB,RDIB,USA,USA,Entertainment,1.7304,494.76,103.573,104.163,541.9517
+Atari SA,OTCPK:PONG.F,PONG.F,USA,FRA,Entertainment,0.887,2.2274,28.3705,22.1571,122.8007
+Crank Media Inc,OTCPK:CRKM,CRKM,USA,CAN,Entertainment,19.621,0.1769,-0.2329,0.0026,132.9435
+Playmaker Capital Inc.,OTCPK:PMKR.F,PMKR.F,USA,CAN,Entertainment,,0.3137,50.9991,7.8152,119.7422
+Kuke Music Holding Limited,NYSE:KUKE,KUKE,USA,CHN,Entertainment,,13.5598,144.6973,37.4887,116.3962
+Celtic plc,OTCPK:CLTF.F,CLTF.F,USA,GBR,Entertainment,0.587,11.4036,95.3495,84.0759,142.0636
+Lizhi Inc.,NASDAQGM:LIZI,LIZI,USA,CHN,Entertainment,,8.8713,41.3111,284.3461,53.3603
+Gaming Realms plc,OTCPK:PSDM.F,PSDM.F,USA,GBR,Entertainment,1.7559,0.6988,16.9838,19.3233,120.763
+Motorsport Games Inc.,NASDAQCM:MSGM,MSGM,USA,USA,Entertainment,,0.0556,45.0495,9.7855,89.6859
+Play Magnus AS,OTCPK:PMGM.F,PMGM.F,USA,NOR,Entertainment,,3.841,52.829,14.6085,84.1541
+Starbreeze AB (publ),OTCPK:STBE.F,STBE.F,USA,SWE,Entertainment,1.2164,48.0215,15.7597,14.5362,126.0771
+S.S. Lazio S.p.A.,OTCPK:SSLZ.F,SSLZ.F,USA,ITA,Entertainment,2.0429,46.4913,3.2414,197.2509,105.1312
+"Gaming Technologies, Inc.",OTCPK:GMGT,GMGT,USA,USA,Entertainment,,0.0609,-0.2828,0.09,84.7381
+OverActive Media Corp.,OTCPK:OAMC.F,OAMC.F,USA,CAN,Entertainment,,25.5399,70.2747,7.9618,80.9422
+"eWorld Companies, Inc.",OTCPK:EWRC,EWRC,USA,USA,Entertainment,,,,,
+ESE Entertainment Inc.,OTCPK:ENTE.F,ENTE.F,USA,CAN,Entertainment,,0.0763,10.0675,4.2821,74.1704
+"Dolphin Entertainment, Inc.",NASDAQCM:DLPN,DLPN,USA,USA,Entertainment,1.8675,16.474,23.5322,31.9178,77.3579
+Kidoz Inc.,OTCPK:KDOZ.F,KDOZ.F,USA,AIA,Entertainment,-0.6426,0.1291,8.362,10.0573,71.0915
+CI Games S.A.,OTCPK:CIGM.F,CIGM.F,USA,POL,Entertainment,0.8497,1.2439,31.0873,23.4077,61.8152
+Mondo TV S.p.A.,OTCPK:MXSP.F,MXSP.F,USA,ITA,Entertainment,1.6023,17.2203,92.833,42.3176,69.3487
+BBTV Holdings Inc.,OTCPK:BBTV.F,BBTV.F,USA,CAN,Entertainment,,41.4209,199.2809,353.4196,85.594
+Gfinity plc,OTCPK:GFIZ.F,GFIZ.F,USA,GBR,Entertainment,,0,4.8744,7.8754,50.5086
+"Ballantyne Strong, Inc",NYSEAM:BTN,BTN,USA,USA,Entertainment,1.2613,7.172,52.093,22.947,13.0366
+"Engine Gaming and Media, Inc.",NASDAQCM:GAME,GAME,USA,CAN,Entertainment,0.946,11.4577,25.5655,37.2209,45.8573
+"Pop Culture Group Co., Ltd",NASDAQGM:CPOP,CPOP,USA,CHN,Entertainment,,7.2415,19.3281,25.5266,57.1481
+Next Games Oyj,OTCPK:NXXT.F,NXXT.F,USA,FIN,Entertainment,2.2806,3.9137,25.6167,29.7676,47.6227
+"SportsQuest, Inc.",OTCPK:SPQS,SPQS,USA,USA,Entertainment,3.1018,,,0.1875,49.6493
+Universal Media Group Inc.,OTCPK:UMGP,UMGP,USA,USA,Entertainment,,,,,
+Stargaze Entertainment Group Inc.,OTCPK:STGZ,STGZ,USA,USA,Entertainment,,,,,
+Star Vault AB (publ),OTCPK:SRVT.F,SRVT.F,USA,SWE,Entertainment,1.0249,0,2.157,0.6769,44.1308
+Boyaa Interactive International Limited,OTCPK:BOYA.F,BOYA.F,USA,CHN,Entertainment,,0.2875,313.7388,55.2238,-160.1152
+Versus Systems Inc.,NASDAQCM:VS,VS,USA,CAN,Entertainment,1.1486,3.1794,15.5759,0.8297,32.9831
+Axion Ventures Inc.,OTCPK:AXNV.F,AXNV.F,USA,CAN,Entertainment,,,,,
+"Sycamore Entertainment Group, Inc.",OTCPK:SEGI,SEGI,USA,USA,Entertainment,66.1029,,,,43.4575
+Astralis A/S,OTCPK:ASGR.F,ASGR.F,USA,DNK,Entertainment,,,,8.4538,34.2711
+Family Room Entertainment Corporation,OTCPK:FMYR,FMYR,USA,USA,Entertainment,,,,,
+PopReach Corporation,OTCPK:POPR.F,POPR.F,USA,CAN,Entertainment,,6.178,16.0025,16.9504,29.817
+Wow Unlimited Media Inc.,OTCPK:WOWM.F,WOWM.F,USA,CAN,Entertainment,2.1857,33.7021,5.0294,58.7134,66.7692
+"Webstar Technology Group, Inc.",OTCPK:WBSR,WBSR,USA,USA,Entertainment,,0.6331,-2.8199,0.0019,35.6035
+"Rivulet Media, Inc.",OTCPK:RIVU,RIVU,USA,USA,Entertainment,,2.0461,1.4263,,37.4771
+"Grom Social Enterprises, Inc.",NASDAQCM:GROM,GROM,USA,USA,Entertainment,0.2112,3.597,25.4823,6.4597,25.9844
+Fujian Blue Hat Interactive Entertainment Technology Ltd.,NASDAQCM:BHAT,BHAT,USA,CHN,Entertainment,1.6147,1.7073,81.6281,43.2788,26.5975
+GigaMedia Limited,NASDAQCM:GIGM,GIGM,USA,TWN,Entertainment,0.1714,1.5184,51.5863,5.6526,-23.3712
+"Moving iMage Technologies, Inc.",NYSEAM:MITQ,MITQ,USA,USA,Entertainment,,0.698,9.993,8.964,13.9197
+Guild Esports Plc,OTCPK:GULD.F,GULD.F,USA,GBR,Entertainment,,0,22.8318,0.5087,2.0866
+Atlantis Internet Group Corp.,OTCPK:ATIG,ATIG,USA,USA,Entertainment,,,,,
+Royal Wins Corporation,OTCPK:RYWC.F,RYWC.F,USA,CAN,Entertainment,,0.0237,1.934,0.2113,18.2201
+Liquid Media Group Ltd.,NASDAQCM:YVR,YVR,USA,CAN,Entertainment,0.4498,0.0359,13.8664,0.0357,11.2174
+Network Media Group Inc.,OTCPK:NETW.F,NETW.F,USA,CAN,Entertainment,0.7028,1.9613,6.1699,3.6882,23.5117
+Web Blockchain Media Inc.,OTCPK:WEBB,WEBB,USA,USA,Entertainment,,,,,
+Virtual Interactive Technologies Corp.,OTCPK:VRVR,VRVR,USA,USA,Entertainment,-0.534,0.751,-0.7333,0.2755,17.1393
+"Tld3 Entertainment Group, Inc.",OTCPK:TLDE,TLDE,USA,USA,Entertainment,,,,,
+American Picture House Corporation,OTCPK:APHP,APHP,USA,USA,Entertainment,,,,,
+HeadsUp Entertainment International Inc.,OTCPK:HDUP,HDUP,USA,CAN,Entertainment,,,,,
+Mills Music Trust,OTCPK:MMTR.S,MMTR.S,USA,USA,Entertainment,,,,,
+"Hannover House, Inc.",OTCPK:HHSE,HHSE,USA,USA,Entertainment,0.4727,0.765,30.3962,0.4891,15.1575
+Personas Social Incorporated,OTCPK:PRSN.F,PRSN.F,USA,CAN,Entertainment,1.0599,1.4558,-0.6145,3.2339,15.8612
+"Tapinator, Inc.",OTCPK:TAPM,TAPM,USA,USA,Entertainment,3.4909,0.4658,1.1581,5.3718,13.8919
+"SPYR, Inc.",OTCPK:SPYR,SPYR,USA,USA,Entertainment,3.361,3.309,-7.295,-0.003,14.5501
+"Broadside Enterprises, Inc.",OTCPK:BRSE,BRSE,USA,USA,Entertainment,,,,,
+Alpha Esports Tech Inc.,OTCPK:APET.F,APET.F,USA,CAN,Entertainment,,,,,
+GameOn Entertainment Technologies Inc.,OTCPK:GMET.F,GMET.F,USA,CAN,Entertainment,,,,,
+SMI Culture & Travel Group Holdings Limited,OTCPK:QJYM.F,QJYM.F,USA,HKG,Entertainment,,,,,
+5th Planet Games A/S,OTCPK:FHPG.F,FHPG.F,USA,DNK,Entertainment,1.9203,0.1053,1.7022,0.8935,10.2877
+SportsHero Limited,OTCPK:NIRO.F,NIRO.F,USA,AUS,Entertainment,5.7989,0,1.244,0.0405,12.0153
+Peer to Peer Network,OTCPK:PTOP,PTOP,USA,USA,Entertainment,,,,,
+"Saddle Ranch Media, Inc.",OTCPK:SRMX,SRMX,USA,USA,Entertainment,2.2093,1.6065,0.0456,0.0057,12.0199
+China Media Inc.,OTCPK:CHND,CHND,USA,CHN,Entertainment,-0.228,1.0867,-1.4868,,11.0229
+"Tarsin Mobile, Inc.",OTCPK:TMIX,TMIX,USA,USA,Entertainment,,,,,
+"Anything Technologies Media, Inc.",OTCPK:EXMT,EXMT,USA,USA,Entertainment,,,,,
+"InCapta, Inc.",OTCPK:INCT,INCT,USA,USA,Entertainment,,,,,
+"AppSoft Technologies, Inc.",OTCPK:ASFT,ASFT,USA,USA,Entertainment,-0.389,0.2817,-0.3297,,8.9747
+"Fuego Enterprises, Inc.",OTCPK:FUGI,FUGI,USA,USA,Entertainment,,,,,
+"Altavoz Entertainment, Inc.",OTCPK:AVOZ,AVOZ,USA,USA,Entertainment,,,,,
+"American Leisure Holdings, Inc.",OTCPK:AMLH,AMLH,USA,USA,Entertainment,,,,,
+ePlay Digital Inc.,OTCPK:EPYF.F,EPYF.F,USA,CAN,Entertainment,1.3036,1.046,-0.1996,0.0204,9.2566
+"SMC Entertainment, Inc.",OTCPK:SMCE,SMCE,USA,USA,Entertainment,,,,,
+"United States Basketball League, Inc.",OTCPK:USBL,USBL,USA,USA,Entertainment,1.6925,0,0.3457,,6.9008
+Lotus Bio-Technology Development Corp.,OTCPK:LBTD,LBTD,USA,USA,Entertainment,,,,,
+Playground Ventures Inc.,OTCPK:SMPB.F,SMPB.F,USA,CAN,Entertainment,1.7956,0.0926,3.3637,,4.7097
+"Direct Equity International, Inc.",OTCPK:DEQI,DEQI,USA,USA,Entertainment,,,,,
+"Major League Football, Inc.",OTCPK:MLFB,MLFB,USA,USA,Entertainment,2.5839,1.0933,-4.5201,,6.7989
+"Modern Cinema Group, Inc.",OTCPK:MOCI,MOCI,USA,USA,Entertainment,,,,,
+"Reeltime Rentals, Inc.",OTCPK:RLTR,RLTR,USA,USA,Entertainment,,,,,
+"Stereo Vision Entertainment, Inc.",OTCPK:SVSN,SVSN,USA,USA,Entertainment,-0.6416,,,2.5,4.8056
+"Everlert, Inc.",OTCPK:EVLI,EVLI,USA,USA,Entertainment,,,,,
+"Xtreme Fighting Championships, Inc.",OTCPK:DKMR,DKMR,USA,USA,Entertainment,-0.6545,0.688,9.9025,0.7537,5.7192
+"B2Digital, Incorporated",OTCPK:BTDG,BTDG,USA,USA,Entertainment,1.7901,5.5134,-3.9461,1.9841,9.2003
+YDx Innovation Corp.,OTCPK:YDRM.F,YDRM.F,USA,CAN,Entertainment,,,,,5.4055
+Valiant Eagle Inc.,OTCPK:PSRU,PSRU,USA,USA,Entertainment,,,,,
+Appreciated Media Holdings Inc.,OTCPK:AMEF.F,AMEF.F,USA,CAN,Entertainment,,1.2028,-1.8599,,4.5166
+GBX International Group Inc.,OTCPK:GBXI,GBXI,USA,USA,Entertainment,,,,,
+"GME Innotainment, Inc.",OTCPK:GMEV,GMEV,USA,HKG,Entertainment,0.959,0,-0.191,,3.0333
+Backstageplay Inc.,OTCPK:PRYN.F,PRYN.F,USA,CAN,Entertainment,1.1954,0,-0.2144,,3.3344
+"GD Entertainment & Technology, Inc.",OTCPK:GDET,GDET,USA,USA,Entertainment,,,,,
+"Lingerie Fighting Championships, Inc.",OTCPK:BOTY,BOTY,USA,USA,Entertainment,2.3268,0.7018,-15.2869,0.0821,3.6662
+"Archer Entertainment Media Communications, Inc.",OTCPK:AEMC,AEMC,USA,USA,Entertainment,,,,,
+"Global Entertainment Holdings, Inc.",OTCPK:GBHL,GBHL,USA,USA,Entertainment,,,,,2.5325
+"Big Screen Entertainment Group, Inc.",OTCPK:BSEG,BSEG,USA,USA,Entertainment,,,,,
+"American Transportation Holdings, Inc.",OTCPK:ATHI,ATHI,USA,USA,Entertainment,,,,,
+Kuuhubb Inc.,OTCPK:BCDM.F,BCDM.F,USA,CAN,Entertainment,1.0077,11.1593,-13.5286,5.2947,13.1357
+"Astika Holdings, Inc.",OTCPK:ASKH,ASKH,USA,NZL,Entertainment,,,,,
+"The Movie Studio, Inc.",OTCPK:MVES,MVES,USA,USA,Entertainment,,,,,
+"RegalWorks Media, Inc.",OTCPK:RWMI,RWMI,USA,USA,Entertainment,,,,,
+"FonU2, Inc.",OTCPK:FONU,FONU,USA,USA,Entertainment,,,,,
+"Starstream Entertainment, Inc.",OTCPK:SSET,SSET,USA,USA,Entertainment,,,,,
+Goliath Film and Media Holdings,OTCPK:GFMH,GFMH,USA,USA,Entertainment,0.2831,0,-0.0948,0.0384,2.221
+All For One Media Corp.,OTCPK:AFOM,AFOM,USA,USA,Entertainment,10.746,4.7574,-13.8159,0.011,6.2801
+"Get Real USA, Inc.",OTCPK:GTRL,GTRL,USA,USA,Entertainment,,,,,
+"Rebel Group, Inc.",OTCPK:REBL,REBL,USA,CHN,Entertainment,,,,,112.9413
+"Fearless Films, Inc.",OTCPK:FERL,FERL,USA,CAN,Entertainment,0.9204,0.3784,-0.2809,,2.0689
+"WRIT Media Group, Inc.",OTCPK:WRIT,WRIT,USA,USA,Entertainment,,,,,
+"Full Alliance Group, Inc.",OTCPK:FAGI,FAGI,USA,USA,Entertainment,,,,,
+"Freeze Tag, Inc.",OTCPK:FRZT,FRZT,USA,USA,Entertainment,-0.2857,0.7486,-0.3922,2.0439,1.3112
+Alliance Media Holdings Inc.,OTCPK:ADTR,ADTR,USA,USA,Entertainment,,,,,
+"Platinum Studios, Inc",OTCPK:PDOS,PDOS,USA,USA,Entertainment,,,,,
+"Luminar Media Group, Inc.",OTCPK:LRGR,LRGR,USA,CAN,Entertainment,,,,,
+Santaro Interactive Entertainment Company,OTCPK:STIE,STIE,USA,CHN,Entertainment,,,,,
+"China CGame, Inc.",OTCPK:CCGM,CCGM,USA,CHN,Entertainment,,,,,
+Almost Never Films Inc.,OTCPK:HLWD,HLWD,USA,USA,Entertainment,-0.9018,0.1544,-0.3519,,0.7306
+"Seven Arts Entertainment, Inc.",OTCPK:SAPX,SAPX,USA,USA,Entertainment,,,,,
+"Sack Lunch Productions, Inc.",OTCPK:SAKL,SAKL,USA,USA,Entertainment,,,,,
+Lord Global Corporation,OTCPK:LRDG,LRDG,USA,USA,Entertainment,,,,,3.6812
+GTFN Holdings Inc.,OTCPK:BTOW,BTOW,USA,USA,Entertainment,,,,,
+"Radioio, Inc.",OTCPK:RAIO,RAIO,USA,USA,Entertainment,,,,,
+"Empire Post Media, Inc.",OTCPK:EMPM,EMPM,USA,USA,Entertainment,,,,,
+"Image Metrics, Inc.",OTCPK:IMGX,IMGX,USA,USA,Entertainment,,,,,
+National Lampoon Inc.,OTCPK:NLMP,NLMP,USA,USA,Entertainment,,,,,
+"Metro Global Media, Inc.",OTCPK:MGMA,MGMA,USA,USA,Entertainment,,,,,
+"American Basketball Association, Inc.",OTCPK:ABKB,ABKB,USA,USA,Entertainment,,,,,
+"Hollywood Intermediate, Inc.",OTCPK:HYWI,HYWI,USA,USA,Entertainment,,,,,
+Kew Media Group Inc.,OTCPK:KWWM.F,KWWM.F,USA,CAN,Entertainment,,,,,
+"Amaru, Inc.",OTCPK:AMRU,AMRU,USA,SGP,Entertainment,,,,,
+United Consortium Ltd.,OTCPK:UCSO,UCSO,USA,USA,Entertainment,,,,,
+Interplay Entertainment Corp.,OTCPK:IPLY,IPLY,USA,USA,Entertainment,,,,,
+"Instructivision, Inc.",OTCPK:ISTC,ISTC,USA,USA,Entertainment,,,,,
+The Kushner-Locke Company,OTCPK:KLOC,KLOC,USA,USA,Entertainment,,,,,
+Vidaroo Corp,OTCPK:VIDA,VIDA,USA,USA,Entertainment,,,,,
+"Idle Media, Inc.",OTCPK:IDLM,IDLM,USA,USA,Entertainment,,,,,
+"Earthworks Entertainment, Inc.",OTCPK:EWKS,EWKS,USA,USA,Entertainment,,,,,
+SouthPeak Interactive Corporation,OTCPK:SOPK,SOPK,USA,USA,Entertainment,,,,,
+Independent Film Development Corporation,OTCPK:IFLM,IFLM,USA,USA,Entertainment,,,,,
+"VGTel, Inc.",OTCPK:VGTL,VGTL,USA,USA,Entertainment,,,,,
+"The Motion Picture Group, Inc.",OTCPK:MPRG,MPRG,USA,USA,Entertainment,,,,,
+Pegasus Gaming Corp.,OTCPK:PGGG,PGGG,USA,CAN,Entertainment,,,,,
+"Tech Central, Inc.",OTCPK:TCHC,TCHC,USA,USA,Entertainment,,,,,
+Tix Corporation,OTCPK:TIXC,TIXC,USA,USA,Entertainment,0.8904,4.617,-3.035,0,4.4214
+"Mike the Pike Productions, Inc.",OTCPK:MIKP,MIKP,USA,USA,Entertainment,,,,,
+"AVP, Inc.",OTCPK:AVPI,AVPI,USA,USA,Entertainment,,,,,
+Football Equities Inc.,OTCPK:FBLQ,FBLQ,USA,USA,Entertainment,,,,,
+Silverstar Holdings Ltd.,OTCPK:SSTR.F,SSTR.F,USA,BMU,Entertainment,,,,,
+Red Mile Entertainment Inc.,OTCPK:RDML,RDML,USA,USA,Entertainment,,,,,
+Miracle Entertainment Inc.,OTCPK:MEMI,MEMI,USA,USA,Entertainment,,,,,
+Reality Racing Inc.,OTCPK:RRGI,RRGI,USA,USA,Entertainment,,,,,
+"indiePub Entertainment, Inc.",OTCPK:IPUB,IPUB,USA,USA,Entertainment,,,,,
+Star Entertainment Group Inc.,OTCPK:SETY,SETY,USA,USA,Entertainment,,,,,
+Rivex Technology Corp.,OTCPK:RIVX,RIVX,USA,USA,Entertainment,,,,,
+"Antilia Group, Corp.",OTCPK:AGGG,AGGG,USA,DOM,Entertainment,,,,,
+Grand Entertainment & Music Inc.,OTCPK:GMSC,GMSC,USA,CAN,Entertainment,,,,,
+"Sun Sports and Entertainment, Inc.",OTCPK:SUNR,SUNR,USA,USA,Entertainment,,,,,
+"NanoTech Entertainment, Inc.",OTCPK:NTEK,NTEK,USA,USA,Entertainment,,,,,
+Ise Blu Equity Corp.,OTCPK:ISBL,ISBL,USA,USA,Entertainment,,,,,
+Playlogic Entertainment Inc.,OTCPK:PLGC,PLGC,USA,NLD,Entertainment,,,,,
+"Hollywood Studios International, Inc.",OTCPK:HYWS,HYWS,USA,USA,Entertainment,,,,,
+UOMO Media Inc.,OTCPK:UOMO,UOMO,USA,CAN,Entertainment,,,,,
+"Heartsoft, Inc.",OTCPK:HTSF,HTSF,USA,USA,Entertainment,,,,,
+"Genius Products, Inc.",OTCPK:GNPR,GNPR,USA,USA,Entertainment,,,,,
+"Wi-Fi TV, Inc.",OTCPK:WIFT,WIFT,USA,USA,Entertainment,,,,,
+MSH Entertainment Corp.,OTCPK:MSHE,MSHE,USA,USA,Entertainment,,,,,
+Rochester Community Baseball Inc.,OTCPK:RCCB,RCCB,USA,USA,Entertainment,,,,,
+Zane Interactive Publishing Inc.,OTCPK:ZNAE,ZNAE,USA,USA,Entertainment,,,,,
+"Nashville Records, Inc.",OTCPK:NRCD,NRCD,USA,USA,Entertainment,,,,,
+"Eva Live, Inc.",OTCPK:GOAI,GOAI,USA,USA,Entertainment,,,,,
+Tiidal Gaming Group Corp.,OTCPK:TIID.F,TIID.F,USA,CAN,Entertainment,,0.2956,1.0369,0.3488,16.0527
+"SEYOUNG D&C Co., Ltd.",OTCPK:SFTX.F,SFTX.F,USA,KOR,Entertainment,0.9934,1.4096,1.1522,0.0584,22.3879
+"Red Truck Entertainment, Inc.",OTCPK:RTRK,RTRK,USA,USA,Entertainment,,,,,
+"Taj Systems, Inc.",OTCPK:TJSS,TJSS,USA,USA,Entertainment,,,,,
+"XRX International Entertainment Holding Group, Inc.",OTCPK:XRXH,XRXH,USA,USA,Entertainment,,,,,
+"Interact-TV, Inc.",OTCPK:ITVI,ITVI,USA,USA,Entertainment,,,,,
+"Du-Art Film Laboratories, Inc.",OTCPK:DAFL,DAFL,USA,USA,Entertainment,,,,,
+Madison Sports & Entertainment Inc.,OTCPK:MSET,MSET,USA,USA,Entertainment,,,,,
+,0,0,0,0,0,0,0,0,0,0
