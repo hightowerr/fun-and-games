@@ -12,6 +12,8 @@ Each year represents a group of new customers defined as users who completed the
 
 Below is the code to create a distribution of each cohort.
 
+Link to my [Github Repo][Github Repo]
+
 ```r
 library(pacman) # Load pacman package
 library(patchwork)

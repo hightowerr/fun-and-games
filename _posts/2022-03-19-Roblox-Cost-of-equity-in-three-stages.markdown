@@ -8,7 +8,7 @@ author: Olayinka Ola
 
 This post is a look cost of equity. The cost of equity is a key ingredient of every discounted cash flow model.
 
-[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
+Link to my [Github Repo][Github Repo]
 
 ## Purpose
 
