@@ -5,6 +5,11 @@ date:   2022-03-19 05:00:00 +0100
 categories: r, data science,
 author: Olayinka Ola
 ---
+
+This post is a look cost of equity. The cost of equity is a key ingredient of every discounted cash flow model.
+
+[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
+
 ## Purpose
 
 The cost of equity is the rate of return an investor requires from stock before looking at alternative investment opportunities. Represented as a percentage Cost of equity is the threshold that must be surpassed for an investor to proceed further with an investment. Generally speaking the higher the risk of investment the higher the cost of equity.
@@ -266,6 +271,9 @@ cost_equity = rfrate + (levered_beta * irp); cost_equity
 ```
 0.0640419354481757
 ```
+
+The files for this post can be found in the below Repo.
+[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
 
 ### **Next steps**
 
