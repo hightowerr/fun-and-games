@@ -383,8 +383,8 @@ Summary
 
 In this post, we used affinity analysis to recommend books for review based on booked reviewed together in the past. This was done in two stages. First we found frequent item-sets using the Apriori algorithm. We then created association rules from those item-sets. Association rules were found using training data and then applied to the test data.
 
-[Github Repo]: https://github.com/hightowerr/marketing/blob/master/Affinity%20Analysis/Book%20recommendation.ipynb
-
 ### References
 
 **Python Real-World Data Science** by Dusty Phillips, Fabrizio Romano, Phuong Vo.T.H, Martin Czygan, Robert Layton, Sebastian Raschka
+
+[Github Repo]: https://github.com/hightowerr/marketing/blob/master/Affinity%20Analysis/Book%20recommendation.ipynb

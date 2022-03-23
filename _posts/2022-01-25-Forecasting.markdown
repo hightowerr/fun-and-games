@@ -23,7 +23,7 @@ In the book ‘Superthinking’, the authors propose a set of characteristics th
 - **Look to the past:** Use recent relevant data inputs wherever possible
 - **Incorporate New Information**: Revised the model based on new information
 
-In this post, I want to demonstrate how to forecast date and/or duration at different likelihood percentages. To do this I will use the Throughput forecaster spreadsheet developed by Troy Magennis which you can download here for free: [https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput Forecaster.xlsx](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput%20Forecaster.xlsx)
+In this post, I want to demonstrate how to forecast date and/or duration at different likelihood percentages. To do this I will use the Throughput forecaster spreadsheet developed by Troy Magennis which you can download [here for free:](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput%20Forecaster.xlsx)
 
 The Throughput Forecaster spreadsheet is a simple Monte Carlo simulation forecasting tool. Given my inputs the spreadsheet hypothetically completes all work 500 times giving me a range of completion date outcomes at varying confidence levels.
 

@@ -109,8 +109,8 @@ mat_5cohort
 
 This post has been a quick look at simple cohort metric creation.
 
-[Github Repo]: https://github.com/hightowerr/marketing/tree/master/Calculating%20Cohort%20Metrics
-
 **Learn More**
 
 - Rodrigues, J (2021). Product Analytics: Applied Data Science Techniques for Actionable Customer Insights.
+
+[Github Repo]: https://github.com/hightowerr/marketing/tree/master/Calculating%20Cohort%20Metrics

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Three stage model Cost of Equity"
+title:  "3 stage model Cost of Equity"
 date:   2022-03-19 05:00:00 +0100
 categories: r, data science,
 author: Olayinka Ola
@@ -272,9 +272,8 @@ cost_equity = rfrate + (levered_beta * irp); cost_equity
 0.0640419354481757
 ```
 
-The files for this post can be found in the below Repo.
-[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
-
 ### **Next steps**
 
 - Calculate the cost of debt
+
+[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
