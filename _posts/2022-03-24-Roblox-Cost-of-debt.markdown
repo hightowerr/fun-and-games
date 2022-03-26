@@ -22,6 +22,8 @@ So I will use the following cost of debt formula:
 
 $Cost of Debt = Risk Free rate + Credit Spread$
 
+Link to my [Github Repo][Github Repo]
+
 ## Risk Free Rate
 
 The risk-free rate is the return that an investor would expect an investment with zero risk (no default and reinvestment risk), over a defined period. However in reality there is no such thing as zero risk. Theoretically, the safest place for my money is in a stable economy bond like the 5y or 10y US treasury bond. Even investing your money in economies like the US comes with a tiny risk of default. I will use the 5-year historical average US Treasury rate as a proxy for my risk-less asset. My rationale being the US dollar is the world's reserve currency so it is likely nearly if not all countries have a few dead presidents tucked away for emergencies.
@@ -153,3 +155,5 @@ Pre-tax cost of debt (borrowing) for ROBLOX is 0.159
 ### Reference
 
 Board of Governors of the Federal Reserve System (US), Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity [DGS5], retrieved from FRED, Federal Reserve Bank of St. Louis; [https://fred.stlouisfed.org/series/DGS5](https://fred.stlouisfed.org/series/DGS5), January 5, 2022.
+
+[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
