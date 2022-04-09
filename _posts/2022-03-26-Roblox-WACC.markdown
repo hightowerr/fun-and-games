@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "WACC for Roblox"
-date:   2022-03-10 09:00:00 +0100
+date:   2022-05-10 09:00:00 +0100
 categories: python
 author: Olayinka Ola
 ---
@@ -21,7 +21,7 @@ To calculate the weighted average cost of capital I will follow the three-step p
 2. Then I calculate the proportion of capital structure that debt and equity capital contributions to the entire enterprise, using the market values of total debt and equity
 3. Finally, I weigh the cost of each kind of capital by the proportion that each component (debt & equity) contributes to the entire capital structure
 
-[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
+[Github Repo][Github Repo]
 
 ## Roblox
 
@@ -172,13 +172,13 @@ For Roblox I now have my cost of equity and debt weights. 98% of Roblox is capit
 
 Two key components of the cost of capital calculation are the cost of equity and the cost of debt.
 
-The **cost of equity** is the rate of return that stockholders in Roblox expect to make when they buy the stock. [See how I calculated my cost of equity here](https://hightowerr.github.io/fun-and-games/r,/data/science,/2022/03/19/Roblox-Cost-of-equity-in-three-stages.html)
+The **cost of equity** is the rate of return that stockholders in Roblox expect to make when they buy the stock. [See how I calculated my cost of equity here](https://hightowerr.github.io/fun-and-games/r/2022/03/19/Roblox-Cost-of-equity-in-three-stages.html)
 
 ```python
 cost_equity = 0.064
 ```
 
-**Cost of debt** is the rate at which Roblox can borrow long term today. [See how I calculated cost of debt for Roblox here.](https://hightowerr.github.io/fun-and-games/r,/data/science,/2022/03/19/Roblox-Cost-of-equity-in-three-stages.html)
+**Cost of debt** is the rate at which Roblox can borrow long term today. [See how I calculated cost of debt for Roblox here.](https://hightowerr.github.io/fun-and-games/python/2022/04/05/Roblox-Cost-of-debt.html)
 
 ```python
 cost_of_debt = 0.159
@@ -250,8 +250,8 @@ that each component (debt & equity) contributes to the entire capital structure
 
 ### Inputs
 
-- [Calculate the Cost of Equity](https://hightowerr.github.io/fun-and-games/r,/data/science,/2022/03/19/Roblox-Cost-of-equity-in-three-stages.html)
-- Calculate the Cost of Debt
+- [Calculate the Cost of Equity](https://hightowerr.github.io/fun-and-games/r/2022/03/19/Roblox-Cost-of-equity-in-three-stages.html)
+- [Calculate the Cost of Debt](http://127.0.0.1:4000/fun-and-games/python/2022/04/05/Roblox-Cost-of-debt.html)
 
 ### Extensions
 
@@ -264,3 +264,5 @@ This section lists some ideas for extending the tutorial.
 
 - [https://academy.treasurers.org/resources/how-to-calculate-the-cost-of-capital](https://academy.treasurers.org/resources/how-to-calculate-the-cost-of-capital)
 - [https://courses.lumenlearning.com/boundless-finance/chapter/capital-structure-considerations/](https://courses.lumenlearning.com/boundless-finance/chapter/capital-structure-considerations/)
+
+[Github Repo]: https://github.com/hightowerr/Investing/tree/main/WACC
