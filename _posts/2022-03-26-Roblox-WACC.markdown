@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "WACC for Roblox"
-date:   2022-05-10 09:00:00 +0100
+date:   2022-03-10 09:00:00 +0100
 categories: python
 author: Olayinka Ola
 ---
@@ -87,7 +87,7 @@ Total debt for ROBLOX is 1182339000.00 billion
 
 The market value of debt (MVD) is the price investors are willing to pay for a company's debt. To convert book value debt into market value debt I treat the entire debt on the books as a bond using the bond pricing formula.
 
-$Bond Price Formula = C \times \frac{1-(1+r)^{-n}}{r}+\frac{F}{(1+r)^{n}}$
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/BondPriceFormula_lax.png" alt="full model">
 
 Adapted from - [https://corporatefinanceinstitute.com/resources/knowledge/finance/market-value-of-debt/](https://corporatefinanceinstitute.com/resources/knowledge/finance/market-value-of-debt/)
 
@@ -194,7 +194,7 @@ Roblox's weighted average cost of capital is thus
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WACC_formula.png" alt="full model">
 
-$0.065 = \left ( 0.064 * 0.98 \right ) + \left ( \left (0.159 * \left ( 1 - 0.34 \right ) \right ) * 0.02 \right )$
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Wacc_form.png" alt="full model">
 
 ```python
 def weighted_average_cost_of_capital(cost_of_common, cost_of_debt, marginal_tax, weights_dict):

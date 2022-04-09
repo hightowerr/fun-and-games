@@ -6,7 +6,7 @@ categories: python
 author: Olayinka Ola
 ---
 
-The pre-tax cost of debt is the rate at which a firm can borrow long term today. It reflects the premium of default in recovery.
+The cost of debt is the rate at which a firm can borrow long term today. It reflects the premium of default in recovery.
 
 ([Link](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/definitions.html))
 
