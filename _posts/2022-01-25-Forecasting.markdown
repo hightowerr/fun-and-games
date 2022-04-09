@@ -2,7 +2,7 @@
 layout: posts
 title:  "Forecasting work using the size growth & pace model"
 date:   2022-01-23 13:00:00 +0100
-categories: Forecasting, product,
+categories: Forecasting
 author: Olayinka Ola
 ---
 

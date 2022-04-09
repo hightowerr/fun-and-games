@@ -2,7 +2,7 @@
 layout: posts
 title:  "Exploring the individual household electric power consumption Data Set"
 date:   2021-12-09 13:00:00 +0100
-categories: Data_Science, r
+categories: r
 author: Olayinka Ola
 ---
 The goal of this project is to explore the Individual household electric power consumption Data Set from this [repository](http://archive.ics.uci.edu/ml/).

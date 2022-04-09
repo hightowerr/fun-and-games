@@ -2,11 +2,13 @@
 layout: posts
 title:  "Cost of debt for Roblox"
 date:   2022-04-05 05:00:00 +0100
-categories: python, data science,
+categories: python
 author: Olayinka Ola
 ---
 
-The pre-tax cost of debt is the rate at which a firm can borrow long term today. It reflects the premium of default in recovery. ([Link](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/definitions.html))
+The pre-tax cost of debt is the rate at which a firm can borrow long term today. It reflects the premium of default in recovery.
+
+([Link](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/definitions.html))
 
 There are multiple approaches to estimating the cost of debt:
 
@@ -20,7 +22,7 @@ Moody’s company rating is behind a paywall so in this example I will use the S
 
 So I will use the following cost of debt formula:
 
-$Cost of Debt = Risk Free rate + Credit Spread$
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cod_latex.png" alt="full model">
 
 Link to my [Github Repo][Github Repo]
 
@@ -57,7 +59,7 @@ print("5-year historical average US Treasury rate is %.03f" % (riskfree_rate))
 
 My biggest concern when investing in a company is the risk of that company not paying me back my money. To understand how likely Tesla is to default on its debt I will estimate a synthetic rating using the [Damodaran site rating system](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ratings.htm). The key input to calculate the synthetic rating is the interest coverage ratio.
 
-$Interest Coverage Ratio = \frac{EBIT}{Interest Expense}$
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/ICR_latex.png" alt="full model">
 
 The	rating for a firm can be	estimated using the financial characteristics of the firm. In its simplest form, the rating can be estimated from the interest coverage ratio.
 

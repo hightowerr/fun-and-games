@@ -2,7 +2,7 @@
 layout: posts
 title:  "Calculating Cohort Metrics"
 date:   2022-02-26 13:00:00 +0100
-categories: product analytics, data science,
+categories: analytics
 author: Olayinka Ola
 ---
 

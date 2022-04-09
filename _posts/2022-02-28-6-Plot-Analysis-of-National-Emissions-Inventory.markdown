@@ -2,7 +2,7 @@
 layout: posts
 title:  "6 Plot Analysis of National Emissions Inventory in America."
 date:   2022-03-01 05:00:00 +0100
-categories: r, data science,
+categories: r
 author: Olayinka Ola
 ---
 The overall goal of this post is to explore the National Emissions Inventory database and see what it says about fine particulate matter pollution in the United states over the 10-year period 1999–2008.

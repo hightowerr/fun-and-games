@@ -2,7 +2,7 @@
 layout: posts
 title:  "WACC for Roblox"
 date:   2022-05-10 09:00:00 +0100
-categories: python, data science,
+categories: python
 author: Olayinka Ola
 ---
 The weighted average cost of capital is a useful tool in investment appraisal. For an investment to be worth while the expected return must be greater that the cost of capital.

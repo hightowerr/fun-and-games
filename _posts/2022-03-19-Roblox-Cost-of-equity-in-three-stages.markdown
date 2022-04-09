@@ -2,7 +2,7 @@
 layout: posts
 title:  "3 stage model Cost of Equity"
 date:   2022-03-19 05:00:00 +0100
-categories: r, data science,
+categories: r
 author: Olayinka Ola
 ---
 

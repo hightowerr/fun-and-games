@@ -1,8 +1,8 @@
 ---
 layout: posts
 title:  "Reproducible Research Assignment 1"
-date:   2022-03-10 09:00:00 +0100
-categories: python datascience
+date:   2022-06-10 09:00:00 +0100
+categories: python
 author: Olayinka Ola
 output:
   html_document:
