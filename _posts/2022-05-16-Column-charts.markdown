@@ -33,7 +33,7 @@ df_1 = pd.read_csv('Orders_byType.csv')
 
 ```
 
-![NumberOrdersPaymentType.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/558dea38-ff6d-4bb0-9412-e87e4a9ecf03/NumberOrdersPaymentType.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/NumberOrdersPaymentType.png" alt="full model">
 
 ```python
 fig = px.bar(df_1, x='paymenttype', y='cnt',
@@ -45,7 +45,7 @@ fig = px.bar(df_1, x='paymenttype', y='cnt',
 fig.show()
 ```
 
-![Order by Payment type - Column Chart.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd59242a-5254-4154-850a-d05244f40f09/Order_by_Payment_type_-_Column_Chart.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type - Column Chart.png" alt="full model">
 
 ### **Useful Variations on the Column Chart**
 
@@ -84,7 +84,7 @@ df = df[['paymenttype','cnt_0_10','cnt_0_10_100','cnt_0_100_1000', 'cnt_0_1000']
 df_clust = df.groupby(['paymenttype']).sum().reset_index(); df_clust
 ```
 
-![df_grouping.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f0e52e1-7647-4ac8-9711-8b63949c4839/df_grouping.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/df_grouping.png" alt="full model">
 
 ### ****Side-by-Side Columns****
 
@@ -122,7 +122,7 @@ fig.update_yaxes(title_text = "Num Orders",
 fig.show()
 ```
 
-![Order by Payment type and order Size - Side by Side.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b353a88-7c2f-4622-a5fa-0df9773179a4/Order_by_Payment_type_and_order_Size_-_Side_by_Side.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Side by Side.png" alt="full model">
 
 ### **Stacked Columns**
 
@@ -159,7 +159,7 @@ fig.update_yaxes(title_text = "Num Orders",
 fig.show()
 ```
 
-![Order by Payment type and order Size - Stacked.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28a53390-d266-4d4c-8734-d0a96f5f5f3a/Order_by_Payment_type_and_order_Size_-_Stacked.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Stacked.png" alt="full model">
 
 ### **Stacked and Normalised Columns**
 
@@ -172,7 +172,7 @@ df_rel['paymenttype'] = df['paymenttype']
 data = df_rel.copy(); data
 ```
 
-![data_stacked.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/932fb2f4-3de5-46b9-aecd-81c35457bc95/data_stacked.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/data_stacked.png" alt="full model">
 
 ```python
 # Code for Stacked chart
@@ -229,8 +229,7 @@ fig.update_layout(yaxis=dict(title_text="Num Orders",
     barmode='stack')
 fig.show()
 ```
-
-![Order by Payment type and order Size - Stacked Normalized.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a913e4d8-3a8d-43c7-9e96-9d1da6402d3e/Order_by_Payment_type_and_order_Size_-_Stacked_Normalized.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Stacked Normalized.png" alt="full model">
 
 ### **Two Axes overlapping**
 
@@ -295,8 +294,7 @@ fig.update_layout(title =  "Num Orders and Revenue - Overlapping on Two Axes",
 
 fig.show()
 ```
-
-![Num Orders and Revenue - Overlapping on Two Axes.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e117c759-7907-496e-a21b-6519d6a94f6f/Num_Orders_and_Revenue_-_Overlapping_on_Two_Axes.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Num Orders and Revenue - Overlapping on Two Axes.png" alt="full model">
 
 ## ****Other Types of Charts****
 
@@ -306,8 +304,7 @@ fig.show()
 fig = px.line(df_clust, x='paymenttype', y=['cnt_0_10','cnt_0_10_100','cnt_0_100_1000','cnt_0_1000'], title='Order by Payment type and order Size - Line Chart')
 fig.show()
 ```
-
-![Order by Payment type and order Size - Line Chart.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78443145-dbeb-4a32-bf65-f05ed8cad674/Order_by_Payment_type_and_order_Size_-_Line_Chart.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Line Chart.png" alt="full model">
 
 This chart emphasises that the three main payment types are responsible for most orders and most revenue. Notice, that AE and MC have about the same number of orders, but AE has much more revenue. This means that the average revenue for customers who pay by American Express is larger than the average revenue for customers who pay by MasterCard.
 
@@ -367,7 +364,7 @@ fig.update_layout(title =  "Num Orders and Revenue - Overlapping on Two Axes",
 fig.show()
 ```
 
-![Num Orders and Revenue - Overlapping on Two Axes with Line.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6635acd3-47c7-4e61-a8a9-3c0e7869fa54/Num_Orders_and_Revenue_-_Overlapping_on_Two_Axes_with_Line.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Num Orders and Revenue - Overlapping on Two Axes with Line.png" alt="full model">
 
 ### **X-Y Charts (Scatter Plots)**
 
