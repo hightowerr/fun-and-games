@@ -15,7 +15,7 @@ output:
     code_download: true
     keep_md: true
 ---
-### **A Basic Chart: Column Charts**
+### A Basic Chart: Column Charts
 
 Charts are very important because a good chart can convey much more information than a table of numbers. The next section starts with this topic: charting in Python. The first example, uses a simple aggregation query, the number of orders for each payment type.
 
@@ -47,7 +47,7 @@ fig.show()
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type - Column Chart.png" alt="full model">
 
-### **Useful Variations on the Column Chart**
+### Useful Variations on the Column Chart
 
 The query divides the orders into four groups, based on the size of the orders. This dataset will be used to demonstrate different ways to compare values using column charts.
 
@@ -86,7 +86,7 @@ df_clust = df.groupby(['paymenttype']).sum().reset_index(); df_clust
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/df_grouping.png" alt="full model">
 
-### ****Side-by-Side Columns****
+### Side-by-Side Columns
 
 This chart shows the actual value of the number of orders for different groups
 
@@ -124,7 +124,7 @@ fig.show()
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Side by Side.png" alt="full model">
 
-### **Stacked Columns**
+### Stacked Columns
 
 This communicates the total number of orders for each payment type, making it possible to find out, for instance, where the most popular payment mechanisms are.
 
@@ -218,8 +218,8 @@ fig.update_layout(yaxis=dict(title_text="Num Orders",
     autosize=False,
     width=854,
     height=480,
-    paper_bgcolor='rgba(0,0,0,0)',
-    plot_bgcolor='rgba(0,0,0,0)',
+    paper_bgcolor='white',
+    plot_bgcolor='white',
     title={
         'text': "Order by Payment type and order Size - Stacked Normalized",
         'y':0.96,
