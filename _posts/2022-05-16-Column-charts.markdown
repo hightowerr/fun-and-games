@@ -1,7 +1,7 @@
 ---
-pagetitle: Order Payment Type
+pagetitle: A Basic Chart: Column Charts
 layout: posts
-title:  "Order Payment Type"
+title:  "A Basic Chart: Column Charts"
 date:   2022-05-10 09:00:00 +0100
 categories: python
 author: Olayinka Ola
@@ -15,7 +15,6 @@ output:
     code_download: true
     keep_md: true
 ---
-### A Basic Chart: Column Charts
 
 Charts are very important because a good chart can convey much more information than a table of numbers. The next section starts with this topic: charting in Python. The first example, uses a simple aggregation query, the number of orders for each payment type.
 
@@ -231,7 +230,7 @@ fig.show()
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Order by Payment type and order Size - Stacked Normalized.png" alt="full model">
 
-### **Two Axes overlapping**
+### Two Axes overlapping
 
 This variation is where one column has the number of orders, and the other has the total revenue.
 
@@ -296,9 +295,9 @@ fig.show()
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Num Orders and Revenue - Overlapping on Two Axes.png" alt="full model">
 
-## ****Other Types of Charts****
+## Other Types of Charts
 
-****Line Charts****
+**Line Charts**
 
 ```python
 fig = px.line(df_clust, x='paymenttype', y=['cnt_0_10','cnt_0_10_100','cnt_0_100_1000','cnt_0_1000'], title='Order by Payment type and order Size - Line Chart')
@@ -366,7 +365,7 @@ fig.show()
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Num Orders and Revenue - Overlapping on Two Axes with Line.png" alt="full model">
 
-### **X-Y Charts (Scatter Plots)**
+### X-Y Charts (Scatter Plots)
 
 Scatter plots are very powerful and are used for many examples. This example shows an obvious relationship between the two variables payment types with more orders have more revenue. Hover over the trend line, to see each additional order brings in about $75 additional revenue
 
