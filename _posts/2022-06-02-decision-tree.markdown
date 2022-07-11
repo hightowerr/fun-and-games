@@ -1,19 +1,9 @@
 ---
-pagetitle: Rmd report
 layout: posts
 title:  "Optimising decision making"
 date:   2022-07-10 09:00:00 +0100
 categories: python
 author: Olayinka Ola
-output:
-  html_document:
-    highlight: zenburn
-    theme: cosmo
-    df_print: paged
-    toc: yes
-    code_folding: hide
-    code_download: true
-    keep_md: true
 ---
 Decision trees a way to figure out and clarify complex problems before committing considerable money, time and resources to a project. Below is an application of a decision tree to a decision on whether to conduct an app UX/UI redesign.
 

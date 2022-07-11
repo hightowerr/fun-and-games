@@ -1,19 +1,9 @@
 ---
-pagetitle: A Basic Chart Column Charts
 layout: posts
 title:  "A Basic Chart: Column Charts"
 date:   2022-05-10 09:00:00 +0100
 categories: python
 author: Olayinka Ola
-output:
-  html_document:
-    highlight: zenburn
-    theme: cosmo
-    df_print: paged
-    toc: yes
-    code_folding: hide
-    code_download: true
-    keep_md: true
 ---
 Charts are very important because a good chart can convey much more information than a table of numbers. The next section starts with this topic: charting in Python. The first example, uses a simple aggregation query, the number of orders for each payment type.
 
