@@ -6,7 +6,7 @@ categories: python, Git, Gradio, HuggingFace, Mamba
 author: Olayinka Ola
 ---
 
-### **The Classifier**
+This project allows automatic identification of sneaker brands from uploaded images, demonstrating an example application of deep learning.
 
 ---
 
@@ -32,7 +32,7 @@ For training the model, I introduced a pre-trained ResNet18 model to my sneake
 
 Each of these steps is absolutely essential for creating a top-simple image classification model. They show how easy it is to deploy powerful deep-learning tools to solve interesting problems.
 
-To use the classifier, you can upload a picture of Nike, Adidas, or Puma sneakers, hit submit, and watch the model predict which brand you've uploaded. Cool, right?
+To use the classifier, you can upload a picture of Nike, Adidas, or Puma sneakers, hit submit, and watch the model predict which brand you've uploaded. Not bad, right?
 
 Adapted from - [Fastai tutorial](https://www.youtube.com/watch?v=F4tvM4Vb3A0&t=3424s)
 
