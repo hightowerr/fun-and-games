@@ -1,18 +1,18 @@
 ---
 layout: posts
 title:  "99% accuracy on Digit Recognizer problem using Fast.ai"
+header:
+  image: /assets/images/markus-krisetya-Vkp9wg-VAsQ-unsplash.jpg
+  og_image: /assets/images/markus-krisetya-Vkp9wg-VAsQ-unsplash.jpg
 date:   2024-06-19 09:00:00 +0100
 categories: GPU, PyTorch, Image Classification, Data Augmentation
 author: Olayinka Ola
 ---
+This is the first of many notebooks on my way to complete the [fastai course](https://course.fast.ai/). I'll use Kaggle as a playground to test my knowledge after each lessons.
 
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. The  goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
 
-My solution uses data augmentation, presizing and Discriminative Learning Rate to achieve 99% accuracy
-
-This is the first of many notebooks on my way to complete the [fastai course](https://course.fast.ai/). I'll use Kaggle as a playground to test my knowledge after each lessons.
-
-My kaggle notebook can be found [here](https://www.kaggle.com/code/madcontender/mnist-simple-fastai-visionlearner)
+My solution uses data augmentation, presizing and Discriminative Learning Rate to achieve 99% accuracy. My kaggle notebook can be found [here](https://www.kaggle.com/code/madcontender/mnist-simple-fastai-visionlearner)
 
 ## Ingredients
 
