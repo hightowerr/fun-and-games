@@ -22,13 +22,13 @@ My solution uses data augmentation, presizing and Discriminative Learning Rate t
 
 ## Key Directions
 
-1. Import libraries
+Import libraries
 
 ```python
 from fastai.vision.all import *
 matplotlib.rc('image', cmap='Greys')
 ```
-2. Read in the CSVs, and transform the data into a usable format for training, testing and inference with Pytorch
+Read in the CSVs, and transform the data into a usable format for training, testing and inference with Pytorch
 
 ```python
 
@@ -41,7 +41,7 @@ def get_image(row):
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Pasted image 20240615081012.png" alt="Learning rate finder">
 
-3. . Configure the 'DataBlock' for a consistent and structured processing and data preprocessing. item_tfms & batch_tfms are particularly important for a data augmentation technique called [[Presizing]] which can help improve the performance of image classification problems
+Configure the 'DataBlock' for a consistent and structured processing and data preprocessing. item_tfms & batch_tfms are particularly important for a data augmentation technique called [[Presizing]] which can help improve the performance of image classification problems
 
 ```python
 mnist_block = DataBlock(
@@ -54,7 +54,7 @@ mnist_block = DataBlock(
 )
 ```
 
-4. Add in the architecture, the data and a metric to validate performance. In this project MixUp is used to help make the model more robust to overfitting.
+Add in the architecture, the data and a metric to validate performance. In this project MixUp is used to help make the model more robust to overfitting.
 
 ```python
 learn = vision_learner(dls, resnet50, metrics=accuracy, cbs = MixUp(0.8)).to_fp16()
@@ -63,7 +63,7 @@ lr_min,lr_steep = learn.lr_find(suggest_funcs=(minimum, steep))
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Pasted image 20240615080608.png" alt="Learning rate finder">
 
-5. To improve the performance of Resnet50 for new tasks like predicting handwritten digits, the discriminative learning rate technique is used to adjust the base layers while fine-tuning the later layers.
+To improve the performance of Resnet50 for new tasks like predicting handwritten digits, the discriminative learning rate technique is used to adjust the base layers while fine-tuning the later layers.
 
 ```python
 learn.fit_one_cycle(2, 3e-2)
@@ -99,10 +99,11 @@ learn.fit_one_cycle(20, lr_max=slice(1e-5, 1e-2))
 | 18    | 0.467691   | 0.014679   | 0.997143 | 01:46 |
 | 19    | 0.460081   | 0.015294   | 0.997262 | 01:44 |
 
-6. The performance can be visualised using a confusion matrix. Overall very good performance. TThe model struggled most with predicting 9
+The performance can be visualised using a confusion matrix. Overall very good performance. TThe model struggled most with predicting 9
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Pasted image 20240615082156.png" alt="Confusion Matrix">
 
 ### Extensions
 - Progressive Resizing - Gradually using larger and larger images as you train.
 - Test-time Augmentation - Creating multiple versions of each image using data augmentation during inference or validation then averaging/maximising for prediction.
+
