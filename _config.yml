@@ -25,7 +25,7 @@ name: OO
 email: yinkwork@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Passionate about product. Love working with data. Eager to build things.
-baseurl: "/" # the subpath of your site, e.g. /blog "/fun-and-games"
+baseurl: "/fun-and-games" # the subpath of your site, e.g. /blog "/fun-and-games"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OO
 github_username:  hightowerr
