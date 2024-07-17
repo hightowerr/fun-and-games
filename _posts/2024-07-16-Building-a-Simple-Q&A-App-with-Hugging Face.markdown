@@ -20,12 +20,13 @@ Setting Up the Environment
 
 3. Update a requirements.txt file containing
 
-           ```python
-           langchain==0.2.5
-           openai==1.35.3
-           streamlit==1.36.0
-           langchain-openai==0.1.9
-           ```
+    ```python
+   langchain==0.2.5
+   openai==1.35.3
+   streamlit==1.36.0
+   langchain-openai==0.1.9
+    ```
+
 4. Create an app.py file for your application's functionality.
     1. Imports necessary libraries
         ```python
@@ -80,13 +81,13 @@ Setting Up the Environment
 
 When you run the app, you'll see a simple interface where you can enter your question. After clicking the "Generate" button, the app will provide a response to your query. The app uses the GPT-3.5-turbo-instruct model with a temperature of 0 to generate direct and focused answers.
 
-        <iframe
-            src="https://hightowerr-llmsintro.hf.space"
-            frameborder="0"
-            width="850"
-            height="450"
-        ></iframe>
-
+<iframe
+    src="https://hightowerr-llmsintro.hf.space"
+    frameborder="0"
+    width="850"
+    height="450"
+></iframe>
+    ---
 **Conclusions**
 
 In this post, we've walked through the process of building an interactive question-answering app using Streamlit and Hugging Face. We've explained each step of the code and demonstrated how to create a simple yet powerful natural language processing application. This project showcases the ease of integrating advanced AI models into web applications using modern tools and frameworks.
