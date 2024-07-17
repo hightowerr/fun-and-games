@@ -6,7 +6,6 @@ categories: product, UX
 author: Olayinka Ola
 ---
 
-**Introduction**
 In this post, we'll explore how to create a straightforward question-and-answer user interface using Streamlit, LangChain, and Hugging Face. This application will allow users to ask questions and receive responses, similar to ChatGPT but through a different interface. We'll leverage Hugging Face's Transformers library for pre-trained models and tools to build our app quickly. The integration between Hugging Face and Streamlit simplifies this process significantly. Additionally, we'll use LangChain, a framework that facilitates the creation of Python applications and makes working with natural language data more manageable.
 
 **Creating the App**
@@ -77,6 +76,7 @@ Setting Up the Environment
         ```
 
 **Demonstration**
+
 When you run the app, you'll see a simple interface where you can enter your question. After clicking the "Generate" button, the app will provide a response to your query. The app uses the GPT-3.5-turbo-instruct model with a temperature of 0 to generate direct and focused answers.
 
 <iframe
@@ -86,5 +86,6 @@ When you run the app, you'll see a simple interface where you can enter your que
 	height="450"
 ></iframe>
 
-Conclusions
+**Conclusions**
+
 In this post, we've walked through the process of building an interactive question-answering app using Streamlit and Hugging Face. We've explained each step of the code and demonstrated how to create a simple yet powerful natural language processing application. This project showcases the ease of integrating advanced AI models into web applications using modern tools and frameworks.

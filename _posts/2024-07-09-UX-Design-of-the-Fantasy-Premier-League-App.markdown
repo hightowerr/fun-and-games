@@ -6,7 +6,6 @@ categories: product, UX
 author: Olayinka Ola
 ---
 
-**Introduction**
 A quick look at how the Fantasy Premier League app employe the UX design—usable, equitable, enjoyable, and useful—in principles
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Fantasy Football.jpg" alt="Fantasy Football">

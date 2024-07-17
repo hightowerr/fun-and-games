@@ -5,7 +5,7 @@ header:
   image: /assets/images/jonathan-ford-6ZgTEtvD16I-unsplash.jpg
   og_image: /assets/images/jonathan-ford-6ZgTEtvD16I-unsplash.jpg
 date:   2024-07-17 09:00:00 +0100
-categories: Tabular Playground, XGBoost, Regression
+categories: Tabular_Playground, XGBoost, Regression
 author: Olayinka Ola
 ---
 
