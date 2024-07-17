@@ -63,7 +63,7 @@ In this blog post, I'll discuss my approach to the flood prediction dataset, whi
 
 ---
 
-In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction](https://www.kaggle.com/code/madcontender/eda-flood-prediction)) notebook,  I conducted an EDA with the following findings:
+In this [linked](https://www.kaggle.com/code/madcontender/eda-flood-prediction) notebook,  I conducted an EDA with the following findings:
 
 - 20 independent features and 1 target feature (flood probability)
 - No missing information in independent variables
@@ -167,9 +167,9 @@ In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction]
 
 ### Model Development
 
-1. Started with a naive random forest model -  [Notebook Link]([https://www.kaggle.com/code/madcontender/eda-flood-prediction](https://www.kaggle.com/code/madcontender/navie-flood-prediction))
-   - Resulted in a poor private score of 0.37329 (R2)
-2. Improved model using XGBoost regression - [Notebook Link]([https://www.kaggle.com/code/madcontender/eda-flood-prediction](https://www.kaggle.com/code/madcontender/flood-prediction-xgb))
+1. Started with a naive random forest model -  [Notebook Link](https://www.kaggle.com/code/madcontender/eda-flood-prediction)
+   - Resulted in a poor private score of 0.37329
+2. Improved model using XGBoost regression - [Notebook Link](https://www.kaggle.com/code/madcontender/eda-flood-prediction)
     
     ```python
     from xgboost import XGBRegressor
@@ -213,8 +213,8 @@ In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction]
     
 - Drastically improved the R2 score to 0.86651
 
-## Conclusion
+### Conclusion
 
-By applying XGBoost regression with optimized hyperparameters, I was able to significantly improve the model's performance from 0.37329 to 0.86651 demonstrates a strong predictive capability for flood probability based on the given features.
+By applying XGBoost regression with optimized hyperparameters, I was able to significantly improve the model's performance from an initial R2 score of 0.37329 to 0.86651. This substantial improvement demonstrates a strong predictive capability for flood probability based on the given features. These results highlight the importance of iterative model development and the potential of advanced regression techniques like XGBoost in tackling complex prediction tasks such as flood probability estimation.
 
 ---

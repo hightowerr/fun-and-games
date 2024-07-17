@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Evaluating the UX Design of the Fantasy Premier League App"
+title:  "Code, Create, Converse: My simple Personal Q&A Assistant"
 date:   2024-07-09 12:30:00 +0100
 categories: product, UX
 author: Olayinka Ola
@@ -11,22 +11,23 @@ In this post, we'll explore how to create a straightforward question-and-answer 
 **Creating the App**
 Setting Up the Environment
 1. Create a free Hugging Face account.
+   - This is a [great guide](https://medium.com/@kirubasagar82/a-comprehensive-guide-to-creating-a-hugging-face-account-and-navigating-the-interface-d4796148b76f)
 2. Create a new space:
     - Name your space
     - Select Streamlit as the SDK
     - Choose free CPU space hardware
     - Set your space to public (recommended)
 
-3. Add a requirements.txt file containing
-    ```python
-    langchain==0.2.5
-    openai==1.35.3
-    streamlit==1.36.0
-    langchain-openai==0.1.9
-    ```
+3. Update a requirements.txt file containing
+
+           ```python
+           langchain==0.2.5
+           openai==1.35.3
+           streamlit==1.36.0
+           langchain-openai==0.1.9
+           ```
 4. Create an app.py file for your application's functionality.
     1. Imports necessary libraries
-
         ```python
         import streamlit as st
         from langchain_openai import OpenAI
@@ -79,12 +80,12 @@ Setting Up the Environment
 
 When you run the app, you'll see a simple interface where you can enter your question. After clicking the "Generate" button, the app will provide a response to your query. The app uses the GPT-3.5-turbo-instruct model with a temperature of 0 to generate direct and focused answers.
 
-<iframe
-	src="https://hightowerr-llmsintro.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+        <iframe
+            src="https://hightowerr-llmsintro.hf.space"
+            frameborder="0"
+            width="850"
+            height="450"
+        ></iframe>
 
 **Conclusions**
 
