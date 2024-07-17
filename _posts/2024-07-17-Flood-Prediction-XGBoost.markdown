@@ -1,6 +1,13 @@
-# 2024-07-17-Flood-Prediction-XGBoost
-
-## Introduction
+---
+layout: posts
+title:  "86.7% on Flood Prediction problem using XGBoost"
+header:
+  image: /assets/images/jonathan-ford-6ZgTEtvD16I-unsplash.jpg
+  og_image: /assets/images/jonathan-ford-6ZgTEtvD16I-unsplash.jpg
+date:   2024-07-17 09:00:00 +0100
+categories: Tabular Playground, XGBoost, Regression
+author: Olayinka Ola
+---
 
 In this blog post, I'll discuss my approach to the flood prediction dataset, which is a regression problem. I'm using XGBoost to improve the R2 score. This project is part of Kaggle's Tabular Playground Series, which offers a great opportunity to sharpen machine learning and data science skills using synthetic datasets based on real-world use cases.
 
@@ -8,7 +15,6 @@ In this blog post, I'll discuss my approach to the flood prediction dataset, whi
 
 1. Imported train and test data
 2. Removed the ID column as it's not necessary for prediction
-    1. 
     
     ```python
     # load the train dataset
@@ -29,8 +35,7 @@ In this blog post, I'll discuss my approach to the flood prediction dataset, whi
     ```
     
 3. Used base features provided by the competition
-4. Engineered additional features to improve performance (sourced from Ambrose and maagtiit)
-    1. 
+4. Engineered additional features to improve performance (Credit to [AmbrosM](https://www.kaggle.com/competitions/playground-series-s4e5/discussion/499274) for the below add features function)
     
     ```python
     BASE_FEATURES = test.columns
@@ -115,15 +120,12 @@ In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction]
     ```
     
 - Target variable distribution resembles a normal distribution
-`<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_histo.png" alt="flood prediction">`
 
-![__results___14_0.png](2024-07-17-Flood-Prediction-XGBoost%2071ed48262fb645fcaa19ed38575277c8/__results___14_0.png)
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_histo.png" alt="flood prediction">
 
 - No multicollinearity among features
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_heatmap.png" alt="flood prediction_heatmap">`
-    
-    ![flood_prediction_heatmap.png](2024-07-17-Flood-Prediction-XGBoost%2071ed48262fb645fcaa19ed38575277c8/flood_prediction_heatmap.png)
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_heatmap.png" alt="flood prediction_heatmap">`
     
 
 **From the Heatmap**
@@ -132,41 +134,41 @@ In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction]
 - 8/20 feature score 0.19 on the correlation heatmap.
 - Similar histogram and box plot profiles for the top 8 correlated features
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_mi.png" alt="histo and boxplot_Viz">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_mi.png" alt="histo and boxplot_Viz">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_silation.png" alt="histo and boxplot_silation">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_silation.png" alt="histo and boxplot_silation">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_landslides.png" alt="histo and boxplot_landslides">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_landslides.png" alt="histo and boxplot_landslides">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_DI.png" alt="histo and boxplot_DI">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_DI.png" alt="histo and boxplot_DI">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_PS.png" alt="histo and boxplot_PS">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_PS.png" alt="histo and boxplot_PS">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_TD.png" alt="histo and boxplot_TD">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_TD.png" alt="histo and boxplot_TD">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_DQ.png" alt="histo and boxplot_DQ">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_DQ.png" alt="histo and boxplot_DQ">
     
     ---
     
-    `<img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_RM.png" alt="histo and boxplot_RM">`
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flood_prediction_RM.png" alt="histo and boxplot_RM">
     
 
 ### Model Development
 
 1. Started with a naive random forest model -  [Notebook Link]([https://www.kaggle.com/code/madcontender/eda-flood-prediction](https://www.kaggle.com/code/madcontender/navie-flood-prediction))
-    1. Resulted in a poor private score of 0.37329 (R2)
+   - Resulted in a poor private score of 0.37329 (R2)
 2. Improved model using XGBoost regression - [Notebook Link]([https://www.kaggle.com/code/madcontender/eda-flood-prediction](https://www.kaggle.com/code/madcontender/flood-prediction-xgb))
     
     ```python
@@ -206,17 +208,13 @@ In this [linked]([https://www.kaggle.com/code/madcontender/eda-flood-prediction]
     # Assemble the metrics we're going to write into a collection
     metrics = {"mae": mae, "mse": mse, "rmse": rmse, "r2": r2}
     
-    end = time.time()
-    elapsed = end - start
-    
     print(metrics)
-    print('\nRun Time: ' + str(elapsed) + ' seconds.')
     ```
     
 - Drastically improved the R2 score to 0.86651
 
 ## Conclusion
 
-By applying XGBoost regression with optimized hyperparameters, I was able to significantly improve the model's performance from the initial naive approach. The current R2 score of 0.86 demonstrates a strong predictive capability for flood probability based on the given features.
+By applying XGBoost regression with optimized hyperparameters, I was able to significantly improve the model's performance from 0.37329 to 0.86651 demonstrates a strong predictive capability for flood probability based on the given features.
 
 ---
