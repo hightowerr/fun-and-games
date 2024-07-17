@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yink's Blog
+title: If You're Reading This It's Too Late
 title_separator: "|"
 author: HighTowerr
 name: OO
