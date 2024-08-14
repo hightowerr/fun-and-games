@@ -9,7 +9,7 @@ categories: Tabular_Playground, XGBoost, Regression
 author: Olayinka Ola
 ---
 
-In this blog post, I'll discuss my approach to the flood prediction dataset, which is a regression problem. I'm using XGBoost to improve the R2 score. This project is part of Kaggle's Tabular Playground Series, which offers a great opportunity to sharpen machine learning and data science skills using synthetic datasets based on real-world use cases.
+In this blog post, I'll discuss my approach to the flood prediction dataset, which is a regression problem. I'm using XGBoost to improve the R2 score. This project is part of Kaggle's Tabular Playground Series, which offers a great opportunity to sharpen machine learning and data science skills using synthetic datasets based on real-world use cases. 
 
 ### Data Preparation
 
