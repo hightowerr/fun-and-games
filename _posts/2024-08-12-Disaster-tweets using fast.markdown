@@ -102,4 +102,4 @@ The final model yielded a score of 0.81121.
 
 This step-by-step guide walks you through the process of exploring and preparing data, engineering features, and building a model to classify sentiment in tweets.
 
-Disaster Tweets EDA + Model fast.ai - [Notebook Link](https://www.kaggle.com/code/madcontender/disaster-tweets-eda-model-fast-ai)
+Disaster Tweets EDA + Model fast.ai: [Notebook Link](https://www.kaggle.com/code/madcontender/disaster-tweets-eda-model-fast-ai)
